@@ -1,5 +1,5 @@
 /* 
- * gulpfile.js - Environment settings, task definition for app.js
+ * gulpfile.js - Environment settings, task definition for index.js
  * Author: Ojas Kale
  * Date: 12th May 2018
  * Version: 1
